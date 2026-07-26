@@ -39,10 +39,6 @@ yarn
 pnpm i
 ```
 
-## Tech Stack + Features
-
-https://github.com/user-attachments/assets/aef3c099-e371-43bf-b426-f5ba73185a7c
-
 ### Frameworks
 
 - [Next.js](https://nextjs.org/) – React framework for building performant apps with the best developer experience
